@@ -1,0 +1,17 @@
+Dear Hiring Team,
+
+I hope this email finds you well. My name is Charan Gunnala, and I am a DevOps Engineer with over 2 years of professional experience specializing in cloud platforms (AWS, Azure), CI/CD pipelines, automation, and container orchestration tools like Kubernetes and Docker.
+
+I am writing to express my interest in opportunities for a DevOps Engineer role within your organization. My experience includes:
+
+- Building and maintaining scalable infrastructure using Terraform.
+- Streamlining deployments through CI/CD pipelines with Jenkins.
+- Managing monitoring tools such as Grafana and Prometheus for system reliability.
+- Expertise in Linux, shell scripting, and automation for improving operational efficiency.
+
+I am confident that my skills and experience can make a positive contribution to your team. I have attached my resume for your reference and would welcome the opportunity to discuss my qualifications further.
+
+Thank you for your time and consideration. I look forward to hearing from you. Please find my resume below.
+
+Warm regards,
+Charan Gunnala
